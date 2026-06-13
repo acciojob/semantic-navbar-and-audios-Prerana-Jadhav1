@@ -2,6 +2,23 @@ body{
     display: block;
     justify-content: center;
     align-items: center;
+}
 
-    background-color: black;
+nav{
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgb(168, 164, 164);
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li{
+    list-style: none;
+    margin: 10px;
 }
